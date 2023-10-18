@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-👨🏽‍💻 I’m currently a CS Undergrad student at Vidyvardhini's College of Engineering and Technology, Mumbai<br>🌱 Currently doing an internship at ApnaCab.<br>💬 Ask me about anything, I love to answer!<br>😄 Pronouns: He/Him.
+👨🏽‍💻 I’m currently a CS Undergrad student at Vidyvardhini's College of Engineering and Technology, Mumbai<br>🌱 Currently doing an internship at ApnaCab.<br>💬 Ask me about anything, I love to answer!<br>
 
 
 ## 🌐 Socials:
